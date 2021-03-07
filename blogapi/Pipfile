@@ -8,6 +8,12 @@ django = "*"
 djangorestframework = "*"
 dj-rest-auth = "*"
 django-allauth = "*"
+pyyaml = "*"
+uritemplate = "*"
+pipenv = "*"
+install = "*"
+drf-yasg = "*"
+autopep8 = "*"
 
 [dev-packages]
 
